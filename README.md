@@ -67,7 +67,7 @@ Follow the steps below to set up and run the project locally.
 1. Clone the project repository:
 
    ```bash
-   git clone https://github.com/your-username/project-name.git
+   git clone https://github.com/Yazanibesh/Demo.git
 
 
 2. Open the project in IntelliJ IDEA.
