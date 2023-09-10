@@ -14,8 +14,7 @@
 - [Global Exception Handling](#global-exception-handling)
 - [Database Views](#database-views)
 - [Stored Procedures](#stored-procedures)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Introduction
 
@@ -158,7 +157,3 @@ BEGIN
   INSERT INTO companies (name, address) VALUES (name, address);
 END
 ```
-### Contributing
-
-  Contributions to this project are welcome. If you encounter any issues, have suggestions for improvements, or would like to add new features, please feel free to submit a pull request or open an issue on the project's GitHub repository.
-
