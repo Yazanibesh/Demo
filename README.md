@@ -76,9 +76,9 @@ Configuration
 1. Configure the MySQL database connection in the `application.properties` file located in the `src/main/resources` directory.
 propertiesCopy code
 ```sql
-  spring.datasource.url=jdbc:mysql://localhost:3306/your-database-name 
-  spring.datasource.username=your-username 
-  spring.datasource.password=your-password 
+  spring.datasource.url=jdbc:mysql://localhost:3306/yazDB 
+  spring.datasource.username=yazan 
+  spring.datasource.password=yazan1989€ 
 ```
 ### Build and Run
 
